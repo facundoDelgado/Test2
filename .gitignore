@@ -67,3 +67,31 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Fonline specific files
+*.fosb
+*.fosp
+
+# Ignore this files below
+*.bat
+*.sh
+*.jar
+*.md
+*.exe
+*.pdb
+*.dll
+*.cmake
+*.header
+*.vcproj
+*.sln
+*.vcxproj.user
+Server/scripts/_solution
+Server/scripts/client
+Server/save
+Server/profiler
+Server/maps
+Server/logs
+Server/dumps
+Server/.vscode
+Server/.vs
+Server/.git
