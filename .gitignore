@@ -95,3 +95,6 @@ Server/dumps
 Server/.vscode
 Server/.vs
 Server/.git
+Tools/
+Client/
+Mapper/
